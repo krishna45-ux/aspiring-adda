@@ -60,9 +60,9 @@ Aspiring Adda is conceptualized and built by a dedicated team of student enginee
 
 *   **Project Mentor:** **Dr. Sayantan Sinha** ([sayantan.sinha@gla.ac.in](mailto:sayantan.sinha@gla.ac.in))
 *   **Team Lead:** **Alankrita Pathak** ([k955776758@gmail.com](mailto:k955776758@gmail.com))
+*   **Developer:** **Krishna Upadhyay** ([k955776758@gmail.com](mailto:k955776758@gmail.com))
 *   **Developer:** **Saksham Chaturvedi** ([time62135@gmail.com](mailto:time62135@gmail.com))
 *   **Developer:** **Pradyumn Rana** ([pradyumn2304@gmail.com](mailto:pradyumn2304@gmail.com))
-*   **Developer:** **Krishna Upadhyay** ([k955776758@gmail.com](mailto:k955776758@gmail.com))
 
 ---
 *Aspiring Adda: Bridging textbooks to tech-stacks with artificial intelligence.*
